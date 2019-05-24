@@ -1,6 +1,6 @@
 # cakephp-color-type
 [![LICENSE](https://img.shields.io/github/license/smartsolutionsitaly/cakephp-color-type.svg)](LICENSE)
-[![packagist](https://img.shields.io/badge/packagist-smartsolutionsitaly%2Fcakephp--color-type-brightgreen.svg)](https://packagist.org/packages/smartsolutionsitaly/cakephp-color-type)
+[![packagist](https://img.shields.io/badge/packagist-smartsolutionsitaly%2Fcakephp--color--type-brightgreen.svg)](https://packagist.org/packages/smartsolutionsitaly/cakephp-color-type)
 [![issues](https://img.shields.io/github/issues/smartsolutionsitaly/cakephp-color-type.svg)](https://github.com/smartsolutionsitaly/cakephp-color-type/issues)
 [![CakePHP](https://img.shields.io/badge/CakePHP-3.6%2B-brightgreen.svg)](https://github.com/cakephp/cakephp)
 
